@@ -17,7 +17,6 @@ to do so.
 git clone https://github.com/SreekanthThummala/ubuntu_wsl2_systemd_scripts.git
 cd ubuntu_wsl2_systemd_scripts/
 bash ubuntu-wsl2-systemd-script.sh
-# Enter your password and wait until the script has finished
 ```
 ### Then restart the Ubuntu shell and try running systemctl
 ```sh
